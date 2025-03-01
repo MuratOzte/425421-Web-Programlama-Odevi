@@ -17,5 +17,5 @@ Kişisel web sitesi
 * ul li a h1
 * table tr th td 
 * h1 h2 h3 p 
-* article progress
-* Toplam 22 tag
+* article progress span image
+* Toplam 24 tag

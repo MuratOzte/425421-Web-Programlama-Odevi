@@ -12,9 +12,10 @@ Kişisel web sitesi
 * Sosyal medya linkleri
 
 ## Kullandığım tagler
-* <head> <body> <header> <footer>
-* <nav> <section> <main> <div>
-* <ul> <li> <a> <h1> 
-* <progress> <table> <tr> <th> <td> 
-* <h1> <h2> <h3> <p> <article>
-* Toplam 22 tag
+* head body header footer
+* nav section main div
+* ul li a h1
+* table tr th td 
+* h1 h2 h3 p 
+* article progress span image
+* Toplam 24 tag

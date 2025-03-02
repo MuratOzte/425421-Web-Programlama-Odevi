@@ -188,3 +188,19 @@ footer ul{
     justify-content: center;
     gap: 4rem;
 }
+
+.project-link{
+    color: #333;
+}
+
+.project-link:hover{
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.project-ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
